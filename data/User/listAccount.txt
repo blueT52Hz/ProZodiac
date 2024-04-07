@@ -1,0 +1,10 @@
+t|1
+tung|1
+dat|1
+Dat|123
+t1|1
+tungtung1|091105
+demo|1
+demo1|1
+demo2|1
+abc|1
