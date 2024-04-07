@@ -4,7 +4,11 @@
 - Mô tả: **ProZodiac** là ứng dụng cho phép người dùng nghiên cứu về cung hoàng đạo của bản thân cũng như của người khác.
 
 ## Screenshots:
-
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
 ## UML:
 
 ## Demo Video:
